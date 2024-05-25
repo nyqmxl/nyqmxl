@@ -4,7 +4,7 @@
 - 💞️ 我希望寻找合作开源架构维护人。
 - 📫 如何联系我Admin@mengyunos.com。
 - 😄 口号：梦云之家，智慧未来。
-- ⚡ 有趣的事情：Arduino-Esp8266、安卓自动化测试工具。
+- ⚡ 有趣的事情：Arduino-ESP8266、安卓自动化测试平台。
 
 <!---
 nyqmxl/nyqmxl是✨ 特殊的✨ 存储库，因为它的`README.md`（此文件）出现在您的GitHub配置文件中。
