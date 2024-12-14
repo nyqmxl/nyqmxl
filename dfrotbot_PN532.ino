@@ -2,7 +2,7 @@
    帮助说明：该库为Dfrobot公司提供，对PN532开发板进行二次开发。
    编译时间：2024年12月14日。
    开发人员：奶元清～萌小狸。
-   代码地址：https://github.com/nyqmxl/nyqmxl/dfrotbot_PN532.ino。
+   代码地址：https://github.com/nyqmxl/nyqmxl/blob/main/dfrotbot_PN532.ino。
    备注说明：该库仅用于测试。
 */
 
