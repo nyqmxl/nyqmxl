@@ -6,7 +6,19 @@
    备注说明：该库仅用于测试。
 */
 
+#include <DFRobot_INA219.h>
 #include <DFRobot_PN532.h>
+#include <ESP8266WiFi.h>
+#include <ArduinoJson.h>
+#include <NTPClient.h>
+#include <WiFiUdp.h>
+#include <Arduino.h>
+#include <DS3231.h>
+#include <iostream>
+#include <Wire.h>
+#include <sha1.h>
+#include <TOTP.h>
+#include <vector>
 
 #define PN532_IRQ (2)
 #define POLLING (0)
