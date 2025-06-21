@@ -1,0 +1,30 @@
+{
+    "database_config": {
+        "basic_info": {
+            "database_address": "mongodb://localhost:27017",
+            "database_name": "mq_server",
+            "table_names": [
+                "mq_data",
+                "device_info",
+                "log_records"
+            ]
+        },
+        "delete_settings": {
+            "database_delete": false,
+            "table_delete": [
+                "mq_data",
+                "device_info",
+                "log_records"
+            ]
+        }
+    },
+    "mq_config": {
+        "service_address": "0.0.0.0",
+        "service_port": 8500,
+        "running_status": true,
+        "connection_timeout": 2,
+        "ping_timeout": 2,
+        "pong_timeout": 2,
+        "close_timeout": 2
+    }
+}
